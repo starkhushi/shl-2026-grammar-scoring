@@ -1,0 +1,8 @@
+# competition data and large artefacts never go in the repo
+*.wav
+*.mp3
+*.npy
+*.zip
+Dataset_Final/
+__pycache__/
+.ipynb_checkpoints/

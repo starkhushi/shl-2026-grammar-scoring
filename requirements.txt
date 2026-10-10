@@ -1,0 +1,12 @@
+# Kaggle "Python" image (October 2026) covers everything below; versions are the ones the kernels ran with.
+numpy
+pandas
+scipy
+scikit-learn
+soundfile
+librosa
+matplotlib
+torch
+transformers
+accelerate
+bitsandbytes   # 4-bit Qwen2.5-7B in the text-feature kernels
